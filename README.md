@@ -8,4 +8,4 @@
 - https://github.com/NecoVanilla/ResourcePack/releases/latest/download/NecoVanilla.zip
 - https://github.com/NecoVanilla/ResourcePack/releases/latest/download/CustomPortals-pack.zip
 
-Репозиторий приватный: в браузере ссылки открываются у членов организации, с сервера — с токеном.
+Репозиторий публичный: ссылки открываются без входа в GitHub.
