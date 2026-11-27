@@ -1,0 +1,7 @@
+{
+ "model": {
+  "type": "minecraft:model",
+  "model": "bookmenu:item/input_cover_navy"
+ },
+ "oversized_in_gui": true
+}

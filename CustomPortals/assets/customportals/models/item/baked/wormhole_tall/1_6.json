@@ -1,0 +1,1 @@
+{"textures":{"portal":"customportals:block/baked/wormhole_tall","particle":"customportals:block/baked/wormhole_tall"},"elements":[{"from":[0,0,8],"to":[16,16,8],"shade":false,"light_emission":15,"faces":{"north":{"texture":"#portal","tintindex":-1,"uv":[2.0,4.8,4.0,6.4]},"south":{"texture":"#portal","tintindex":-1,"uv":[4.0,4.8,2.0,6.4]}}}]}

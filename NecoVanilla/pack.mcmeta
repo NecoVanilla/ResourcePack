@@ -1,0 +1,65 @@
+{
+  "pack": {
+    "description": "§bNeco Vanilla §7— ресурспак сервера",
+    "min_format": 88,
+    "max_format": 199
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": [
+          34,
+          34
+        ],
+        "min_format": 34,
+        "max_format": 34,
+        "directory": "screenui_1_21"
+      },
+      {
+        "formats": [
+          42,
+          55
+        ],
+        "min_format": 42,
+        "max_format": 55,
+        "directory": "screenui_1_21_2"
+      },
+      {
+        "formats": [
+          63,
+          64
+        ],
+        "min_format": 63,
+        "max_format": 64,
+        "directory": "screenui_1_21_6"
+      },
+      {
+        "formats": [
+          69,
+          75
+        ],
+        "min_format": 69,
+        "max_format": 75,
+        "directory": "screenui_1_21_9"
+      },
+      {
+        "formats": [
+          84,
+          87
+        ],
+        "min_format": 84,
+        "max_format": 87,
+        "directory": "screenui_26_1"
+      },
+      {
+        "formats": [
+          88,
+          89
+        ],
+        "min_format": 88,
+        "max_format": 89,
+        "directory": "screenui_26_2"
+      }
+    ]
+  }
+}

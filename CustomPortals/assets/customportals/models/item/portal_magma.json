@@ -1,0 +1,7 @@
+{
+  "parent": "customportals:item/portal_base",
+  "textures": {
+    "portal": "customportals:block/portal_magma",
+    "particle": "customportals:block/portal_magma"
+  }
+}

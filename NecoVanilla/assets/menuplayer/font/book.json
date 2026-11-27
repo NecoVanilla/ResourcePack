@@ -1,0 +1,13 @@
+{
+ "providers": [
+  {
+   "type": "bitmap",
+   "file": "menuplayer:book/book.png",
+   "ascent": 71,
+   "height": 134,
+   "chars": [
+    "\ue000"
+   ]
+  }
+ ]
+}

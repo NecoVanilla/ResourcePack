@@ -1,0 +1,7 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "screenui:item/input_cover"
+  },
+  "oversized_in_gui": true
+}

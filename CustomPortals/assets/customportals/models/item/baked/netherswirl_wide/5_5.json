@@ -1,0 +1,1 @@
+{"textures":{"portal":"customportals:block/baked/netherswirl_wide","particle":"customportals:block/baked/netherswirl_wide"},"elements":[{"from":[0,0,8],"to":[16,16,8],"shade":false,"light_emission":15,"faces":{"north":{"texture":"#portal","tintindex":-1,"uv":[8.0,4.0,9.6,6.0]},"south":{"texture":"#portal","tintindex":-1,"uv":[9.6,4.0,8.0,6.0]}}}]}

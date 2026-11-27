@@ -1,0 +1,30 @@
+{
+ "providers": [
+  {
+   "type": "space",
+   "advances": {
+    "\ue000": -60,
+    "\ue002": -118,
+    "\ue004": -231,
+    "\ue005": -169,
+    "\ue010": -1,
+    "\ue011": -2,
+    "\ue012": -4,
+    "\ue013": -8,
+    "\ue014": -16,
+    "\ue015": -32,
+    "\ue016": -64,
+    "\ue017": -128
+   }
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:input/mask_navy.png",
+   "height": 166,
+   "ascent": 13,
+   "chars": [
+    "\ue001"
+   ]
+  }
+ ]
+}

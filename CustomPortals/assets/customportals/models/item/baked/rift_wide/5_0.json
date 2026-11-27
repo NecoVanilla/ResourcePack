@@ -1,0 +1,1 @@
+{"textures":{"portal":"customportals:block/baked/rift_wide","particle":"customportals:block/baked/rift_wide"},"elements":[{"from":[0,0,8],"to":[16,16,8],"shade":false,"light_emission":15,"faces":{"north":{"texture":"#portal","tintindex":-1,"uv":[4.21053,14.76923,5.05263,16.0]},"south":{"texture":"#portal","tintindex":-1,"uv":[5.05263,14.76923,4.21053,16.0]}}}]}

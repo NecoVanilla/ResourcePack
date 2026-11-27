@@ -1,0 +1,6734 @@
+{
+ "providers": [
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/book.png",
+   "ascent": 81,
+   "height": 154,
+   "chars": [
+    "\ue000"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/page_left.png",
+   "ascent": 70,
+   "height": 132,
+   "chars": [
+    "\ue001"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/page_right.png",
+   "ascent": 70,
+   "height": 132,
+   "chars": [
+    "\ue002"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/tab0.png",
+   "ascent": 17,
+   "height": 26,
+   "chars": [
+    "\ue010"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/tab0_on.png",
+   "ascent": 17,
+   "height": 26,
+   "chars": [
+    "\ue014"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/tab1.png",
+   "ascent": 17,
+   "height": 26,
+   "chars": [
+    "\ue011"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/tab1_on.png",
+   "ascent": 17,
+   "height": 26,
+   "chars": [
+    "\ue015"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/tab2.png",
+   "ascent": 17,
+   "height": 26,
+   "chars": [
+    "\ue012"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/tab2_on.png",
+   "ascent": 17,
+   "height": 26,
+   "chars": [
+    "\ue016"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/tab3.png",
+   "ascent": 17,
+   "height": 26,
+   "chars": [
+    "\ue013"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/tab3_on.png",
+   "ascent": 17,
+   "height": 26,
+   "chars": [
+    "\ue017"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/flag0.png",
+   "ascent": 14,
+   "height": 20,
+   "chars": [
+    "\ue020"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/flag1.png",
+   "ascent": 14,
+   "height": 20,
+   "chars": [
+    "\ue021"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/flag2.png",
+   "ascent": 14,
+   "height": 20,
+   "chars": [
+    "\ue022"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/flag3.png",
+   "ascent": 14,
+   "height": 20,
+   "chars": [
+    "\ue023"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/flag4.png",
+   "ascent": 14,
+   "height": 20,
+   "chars": [
+    "\ue024"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/flag_stats.png",
+   "ascent": 14,
+   "height": 20,
+   "chars": [
+    "\ue025"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/flag_profile.png",
+   "ascent": 14,
+   "height": 20,
+   "chars": [
+    "\ue026"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/flag_settings.png",
+   "ascent": 14,
+   "height": 20,
+   "chars": [
+    "\ue027"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/flag_bank.png",
+   "ascent": 14,
+   "height": 20,
+   "chars": [
+    "\ue028"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/flag_factions.png",
+   "ascent": 14,
+   "height": 20,
+   "chars": [
+    "\ue029"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/fold_left.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue030"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/fold_right.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue031"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/page_blank.png",
+   "ascent": 70,
+   "height": 132,
+   "chars": [
+    "\ue003"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l8.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue108"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m8.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue188"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r8.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue208"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l9.png",
+   "ascent": 9,
+   "height": 10,
+   "chars": [
+    "\ue109"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m9.png",
+   "ascent": 9,
+   "height": 10,
+   "chars": [
+    "\ue189"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r9.png",
+   "ascent": 9,
+   "height": 10,
+   "chars": [
+    "\ue209"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l10.png",
+   "ascent": 9,
+   "height": 10,
+   "chars": [
+    "\ue10a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m10.png",
+   "ascent": 9,
+   "height": 10,
+   "chars": [
+    "\ue18a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r10.png",
+   "ascent": 9,
+   "height": 10,
+   "chars": [
+    "\ue20a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l11.png",
+   "ascent": 10,
+   "height": 12,
+   "chars": [
+    "\ue10b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m11.png",
+   "ascent": 10,
+   "height": 12,
+   "chars": [
+    "\ue18b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r11.png",
+   "ascent": 10,
+   "height": 12,
+   "chars": [
+    "\ue20b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l12.png",
+   "ascent": 10,
+   "height": 12,
+   "chars": [
+    "\ue10c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m12.png",
+   "ascent": 10,
+   "height": 12,
+   "chars": [
+    "\ue18c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r12.png",
+   "ascent": 10,
+   "height": 12,
+   "chars": [
+    "\ue20c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l13.png",
+   "ascent": 11,
+   "height": 14,
+   "chars": [
+    "\ue10d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m13.png",
+   "ascent": 11,
+   "height": 14,
+   "chars": [
+    "\ue18d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r13.png",
+   "ascent": 11,
+   "height": 14,
+   "chars": [
+    "\ue20d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l14.png",
+   "ascent": 11,
+   "height": 14,
+   "chars": [
+    "\ue10e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m14.png",
+   "ascent": 11,
+   "height": 14,
+   "chars": [
+    "\ue18e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r14.png",
+   "ascent": 11,
+   "height": 14,
+   "chars": [
+    "\ue20e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l15.png",
+   "ascent": 12,
+   "height": 16,
+   "chars": [
+    "\ue10f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m15.png",
+   "ascent": 12,
+   "height": 16,
+   "chars": [
+    "\ue18f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r15.png",
+   "ascent": 12,
+   "height": 16,
+   "chars": [
+    "\ue20f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l16.png",
+   "ascent": 12,
+   "height": 16,
+   "chars": [
+    "\ue110"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m16.png",
+   "ascent": 12,
+   "height": 16,
+   "chars": [
+    "\ue190"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r16.png",
+   "ascent": 12,
+   "height": 16,
+   "chars": [
+    "\ue210"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l17.png",
+   "ascent": 13,
+   "height": 18,
+   "chars": [
+    "\ue111"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m17.png",
+   "ascent": 13,
+   "height": 18,
+   "chars": [
+    "\ue191"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r17.png",
+   "ascent": 13,
+   "height": 18,
+   "chars": [
+    "\ue211"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l18.png",
+   "ascent": 13,
+   "height": 18,
+   "chars": [
+    "\ue112"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m18.png",
+   "ascent": 13,
+   "height": 18,
+   "chars": [
+    "\ue192"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r18.png",
+   "ascent": 13,
+   "height": 18,
+   "chars": [
+    "\ue212"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l19.png",
+   "ascent": 14,
+   "height": 20,
+   "chars": [
+    "\ue113"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m19.png",
+   "ascent": 14,
+   "height": 20,
+   "chars": [
+    "\ue193"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r19.png",
+   "ascent": 14,
+   "height": 20,
+   "chars": [
+    "\ue213"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l20.png",
+   "ascent": 14,
+   "height": 20,
+   "chars": [
+    "\ue114"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m20.png",
+   "ascent": 14,
+   "height": 20,
+   "chars": [
+    "\ue194"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r20.png",
+   "ascent": 14,
+   "height": 20,
+   "chars": [
+    "\ue214"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l21.png",
+   "ascent": 15,
+   "height": 22,
+   "chars": [
+    "\ue115"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m21.png",
+   "ascent": 15,
+   "height": 22,
+   "chars": [
+    "\ue195"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r21.png",
+   "ascent": 15,
+   "height": 22,
+   "chars": [
+    "\ue215"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l22.png",
+   "ascent": 15,
+   "height": 22,
+   "chars": [
+    "\ue116"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m22.png",
+   "ascent": 15,
+   "height": 22,
+   "chars": [
+    "\ue196"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r22.png",
+   "ascent": 15,
+   "height": 22,
+   "chars": [
+    "\ue216"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l23.png",
+   "ascent": 16,
+   "height": 24,
+   "chars": [
+    "\ue117"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m23.png",
+   "ascent": 16,
+   "height": 24,
+   "chars": [
+    "\ue197"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r23.png",
+   "ascent": 16,
+   "height": 24,
+   "chars": [
+    "\ue217"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l24.png",
+   "ascent": 16,
+   "height": 24,
+   "chars": [
+    "\ue118"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m24.png",
+   "ascent": 16,
+   "height": 24,
+   "chars": [
+    "\ue198"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r24.png",
+   "ascent": 16,
+   "height": 24,
+   "chars": [
+    "\ue218"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l25.png",
+   "ascent": 17,
+   "height": 26,
+   "chars": [
+    "\ue119"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m25.png",
+   "ascent": 17,
+   "height": 26,
+   "chars": [
+    "\ue199"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r25.png",
+   "ascent": 17,
+   "height": 26,
+   "chars": [
+    "\ue219"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l26.png",
+   "ascent": 17,
+   "height": 26,
+   "chars": [
+    "\ue11a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m26.png",
+   "ascent": 17,
+   "height": 26,
+   "chars": [
+    "\ue19a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r26.png",
+   "ascent": 17,
+   "height": 26,
+   "chars": [
+    "\ue21a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l27.png",
+   "ascent": 18,
+   "height": 28,
+   "chars": [
+    "\ue11b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m27.png",
+   "ascent": 18,
+   "height": 28,
+   "chars": [
+    "\ue19b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r27.png",
+   "ascent": 18,
+   "height": 28,
+   "chars": [
+    "\ue21b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l28.png",
+   "ascent": 18,
+   "height": 28,
+   "chars": [
+    "\ue11c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m28.png",
+   "ascent": 18,
+   "height": 28,
+   "chars": [
+    "\ue19c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r28.png",
+   "ascent": 18,
+   "height": 28,
+   "chars": [
+    "\ue21c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l29.png",
+   "ascent": 19,
+   "height": 30,
+   "chars": [
+    "\ue11d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m29.png",
+   "ascent": 19,
+   "height": 30,
+   "chars": [
+    "\ue19d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r29.png",
+   "ascent": 19,
+   "height": 30,
+   "chars": [
+    "\ue21d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l30.png",
+   "ascent": 19,
+   "height": 30,
+   "chars": [
+    "\ue11e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m30.png",
+   "ascent": 19,
+   "height": 30,
+   "chars": [
+    "\ue19e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r30.png",
+   "ascent": 19,
+   "height": 30,
+   "chars": [
+    "\ue21e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l31.png",
+   "ascent": 20,
+   "height": 32,
+   "chars": [
+    "\ue11f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m31.png",
+   "ascent": 20,
+   "height": 32,
+   "chars": [
+    "\ue19f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r31.png",
+   "ascent": 20,
+   "height": 32,
+   "chars": [
+    "\ue21f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l32.png",
+   "ascent": 20,
+   "height": 32,
+   "chars": [
+    "\ue120"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m32.png",
+   "ascent": 20,
+   "height": 32,
+   "chars": [
+    "\ue1a0"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r32.png",
+   "ascent": 20,
+   "height": 32,
+   "chars": [
+    "\ue220"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l33.png",
+   "ascent": 21,
+   "height": 34,
+   "chars": [
+    "\ue121"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m33.png",
+   "ascent": 21,
+   "height": 34,
+   "chars": [
+    "\ue1a1"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r33.png",
+   "ascent": 21,
+   "height": 34,
+   "chars": [
+    "\ue221"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l34.png",
+   "ascent": 21,
+   "height": 34,
+   "chars": [
+    "\ue122"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m34.png",
+   "ascent": 21,
+   "height": 34,
+   "chars": [
+    "\ue1a2"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r34.png",
+   "ascent": 21,
+   "height": 34,
+   "chars": [
+    "\ue222"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l35.png",
+   "ascent": 22,
+   "height": 36,
+   "chars": [
+    "\ue123"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m35.png",
+   "ascent": 22,
+   "height": 36,
+   "chars": [
+    "\ue1a3"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r35.png",
+   "ascent": 22,
+   "height": 36,
+   "chars": [
+    "\ue223"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l36.png",
+   "ascent": 22,
+   "height": 36,
+   "chars": [
+    "\ue124"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m36.png",
+   "ascent": 22,
+   "height": 36,
+   "chars": [
+    "\ue1a4"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r36.png",
+   "ascent": 22,
+   "height": 36,
+   "chars": [
+    "\ue224"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l37.png",
+   "ascent": 23,
+   "height": 38,
+   "chars": [
+    "\ue125"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m37.png",
+   "ascent": 23,
+   "height": 38,
+   "chars": [
+    "\ue1a5"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r37.png",
+   "ascent": 23,
+   "height": 38,
+   "chars": [
+    "\ue225"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l38.png",
+   "ascent": 23,
+   "height": 38,
+   "chars": [
+    "\ue126"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m38.png",
+   "ascent": 23,
+   "height": 38,
+   "chars": [
+    "\ue1a6"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r38.png",
+   "ascent": 23,
+   "height": 38,
+   "chars": [
+    "\ue226"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l39.png",
+   "ascent": 24,
+   "height": 40,
+   "chars": [
+    "\ue127"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m39.png",
+   "ascent": 24,
+   "height": 40,
+   "chars": [
+    "\ue1a7"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r39.png",
+   "ascent": 24,
+   "height": 40,
+   "chars": [
+    "\ue227"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l40.png",
+   "ascent": 24,
+   "height": 40,
+   "chars": [
+    "\ue128"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m40.png",
+   "ascent": 24,
+   "height": 40,
+   "chars": [
+    "\ue1a8"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r40.png",
+   "ascent": 24,
+   "height": 40,
+   "chars": [
+    "\ue228"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l41.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue129"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m41.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue1a9"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r41.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue229"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l42.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue12a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m42.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue1aa"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r42.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue22a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l43.png",
+   "ascent": 26,
+   "height": 44,
+   "chars": [
+    "\ue12b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m43.png",
+   "ascent": 26,
+   "height": 44,
+   "chars": [
+    "\ue1ab"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r43.png",
+   "ascent": 26,
+   "height": 44,
+   "chars": [
+    "\ue22b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l44.png",
+   "ascent": 26,
+   "height": 44,
+   "chars": [
+    "\ue12c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m44.png",
+   "ascent": 26,
+   "height": 44,
+   "chars": [
+    "\ue1ac"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r44.png",
+   "ascent": 26,
+   "height": 44,
+   "chars": [
+    "\ue22c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l45.png",
+   "ascent": 27,
+   "height": 46,
+   "chars": [
+    "\ue12d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m45.png",
+   "ascent": 27,
+   "height": 46,
+   "chars": [
+    "\ue1ad"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r45.png",
+   "ascent": 27,
+   "height": 46,
+   "chars": [
+    "\ue22d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l46.png",
+   "ascent": 27,
+   "height": 46,
+   "chars": [
+    "\ue12e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m46.png",
+   "ascent": 27,
+   "height": 46,
+   "chars": [
+    "\ue1ae"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r46.png",
+   "ascent": 27,
+   "height": 46,
+   "chars": [
+    "\ue22e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l47.png",
+   "ascent": 28,
+   "height": 48,
+   "chars": [
+    "\ue12f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m47.png",
+   "ascent": 28,
+   "height": 48,
+   "chars": [
+    "\ue1af"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r47.png",
+   "ascent": 28,
+   "height": 48,
+   "chars": [
+    "\ue22f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l48.png",
+   "ascent": 28,
+   "height": 48,
+   "chars": [
+    "\ue130"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m48.png",
+   "ascent": 28,
+   "height": 48,
+   "chars": [
+    "\ue1b0"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r48.png",
+   "ascent": 28,
+   "height": 48,
+   "chars": [
+    "\ue230"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l49.png",
+   "ascent": 29,
+   "height": 50,
+   "chars": [
+    "\ue131"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m49.png",
+   "ascent": 29,
+   "height": 50,
+   "chars": [
+    "\ue1b1"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r49.png",
+   "ascent": 29,
+   "height": 50,
+   "chars": [
+    "\ue231"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l50.png",
+   "ascent": 29,
+   "height": 50,
+   "chars": [
+    "\ue132"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m50.png",
+   "ascent": 29,
+   "height": 50,
+   "chars": [
+    "\ue1b2"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r50.png",
+   "ascent": 29,
+   "height": 50,
+   "chars": [
+    "\ue232"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l51.png",
+   "ascent": 30,
+   "height": 52,
+   "chars": [
+    "\ue133"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m51.png",
+   "ascent": 30,
+   "height": 52,
+   "chars": [
+    "\ue1b3"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r51.png",
+   "ascent": 30,
+   "height": 52,
+   "chars": [
+    "\ue233"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l52.png",
+   "ascent": 30,
+   "height": 52,
+   "chars": [
+    "\ue134"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m52.png",
+   "ascent": 30,
+   "height": 52,
+   "chars": [
+    "\ue1b4"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r52.png",
+   "ascent": 30,
+   "height": 52,
+   "chars": [
+    "\ue234"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l53.png",
+   "ascent": 31,
+   "height": 54,
+   "chars": [
+    "\ue135"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m53.png",
+   "ascent": 31,
+   "height": 54,
+   "chars": [
+    "\ue1b5"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r53.png",
+   "ascent": 31,
+   "height": 54,
+   "chars": [
+    "\ue235"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l54.png",
+   "ascent": 31,
+   "height": 54,
+   "chars": [
+    "\ue136"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m54.png",
+   "ascent": 31,
+   "height": 54,
+   "chars": [
+    "\ue1b6"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r54.png",
+   "ascent": 31,
+   "height": 54,
+   "chars": [
+    "\ue236"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l55.png",
+   "ascent": 32,
+   "height": 56,
+   "chars": [
+    "\ue137"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m55.png",
+   "ascent": 32,
+   "height": 56,
+   "chars": [
+    "\ue1b7"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r55.png",
+   "ascent": 32,
+   "height": 56,
+   "chars": [
+    "\ue237"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l56.png",
+   "ascent": 32,
+   "height": 56,
+   "chars": [
+    "\ue138"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m56.png",
+   "ascent": 32,
+   "height": 56,
+   "chars": [
+    "\ue1b8"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r56.png",
+   "ascent": 32,
+   "height": 56,
+   "chars": [
+    "\ue238"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l57.png",
+   "ascent": 33,
+   "height": 58,
+   "chars": [
+    "\ue139"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m57.png",
+   "ascent": 33,
+   "height": 58,
+   "chars": [
+    "\ue1b9"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r57.png",
+   "ascent": 33,
+   "height": 58,
+   "chars": [
+    "\ue239"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l58.png",
+   "ascent": 33,
+   "height": 58,
+   "chars": [
+    "\ue13a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m58.png",
+   "ascent": 33,
+   "height": 58,
+   "chars": [
+    "\ue1ba"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r58.png",
+   "ascent": 33,
+   "height": 58,
+   "chars": [
+    "\ue23a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l59.png",
+   "ascent": 34,
+   "height": 60,
+   "chars": [
+    "\ue13b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m59.png",
+   "ascent": 34,
+   "height": 60,
+   "chars": [
+    "\ue1bb"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r59.png",
+   "ascent": 34,
+   "height": 60,
+   "chars": [
+    "\ue23b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l60.png",
+   "ascent": 34,
+   "height": 60,
+   "chars": [
+    "\ue13c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m60.png",
+   "ascent": 34,
+   "height": 60,
+   "chars": [
+    "\ue1bc"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r60.png",
+   "ascent": 34,
+   "height": 60,
+   "chars": [
+    "\ue23c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l61.png",
+   "ascent": 35,
+   "height": 62,
+   "chars": [
+    "\ue13d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m61.png",
+   "ascent": 35,
+   "height": 62,
+   "chars": [
+    "\ue1bd"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r61.png",
+   "ascent": 35,
+   "height": 62,
+   "chars": [
+    "\ue23d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l62.png",
+   "ascent": 35,
+   "height": 62,
+   "chars": [
+    "\ue13e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m62.png",
+   "ascent": 35,
+   "height": 62,
+   "chars": [
+    "\ue1be"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r62.png",
+   "ascent": 35,
+   "height": 62,
+   "chars": [
+    "\ue23e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l63.png",
+   "ascent": 36,
+   "height": 64,
+   "chars": [
+    "\ue13f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m63.png",
+   "ascent": 36,
+   "height": 64,
+   "chars": [
+    "\ue1bf"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r63.png",
+   "ascent": 36,
+   "height": 64,
+   "chars": [
+    "\ue23f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l64.png",
+   "ascent": 36,
+   "height": 64,
+   "chars": [
+    "\ue140"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m64.png",
+   "ascent": 36,
+   "height": 64,
+   "chars": [
+    "\ue1c0"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r64.png",
+   "ascent": 36,
+   "height": 64,
+   "chars": [
+    "\ue240"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l65.png",
+   "ascent": 37,
+   "height": 66,
+   "chars": [
+    "\ue141"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m65.png",
+   "ascent": 37,
+   "height": 66,
+   "chars": [
+    "\ue1c1"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r65.png",
+   "ascent": 37,
+   "height": 66,
+   "chars": [
+    "\ue241"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l66.png",
+   "ascent": 37,
+   "height": 66,
+   "chars": [
+    "\ue142"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m66.png",
+   "ascent": 37,
+   "height": 66,
+   "chars": [
+    "\ue1c2"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r66.png",
+   "ascent": 37,
+   "height": 66,
+   "chars": [
+    "\ue242"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l67.png",
+   "ascent": 38,
+   "height": 68,
+   "chars": [
+    "\ue143"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m67.png",
+   "ascent": 38,
+   "height": 68,
+   "chars": [
+    "\ue1c3"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r67.png",
+   "ascent": 38,
+   "height": 68,
+   "chars": [
+    "\ue243"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l68.png",
+   "ascent": 38,
+   "height": 68,
+   "chars": [
+    "\ue144"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m68.png",
+   "ascent": 38,
+   "height": 68,
+   "chars": [
+    "\ue1c4"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r68.png",
+   "ascent": 38,
+   "height": 68,
+   "chars": [
+    "\ue244"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l69.png",
+   "ascent": 39,
+   "height": 70,
+   "chars": [
+    "\ue145"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m69.png",
+   "ascent": 39,
+   "height": 70,
+   "chars": [
+    "\ue1c5"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r69.png",
+   "ascent": 39,
+   "height": 70,
+   "chars": [
+    "\ue245"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l70.png",
+   "ascent": 39,
+   "height": 70,
+   "chars": [
+    "\ue146"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m70.png",
+   "ascent": 39,
+   "height": 70,
+   "chars": [
+    "\ue1c6"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r70.png",
+   "ascent": 39,
+   "height": 70,
+   "chars": [
+    "\ue246"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l71.png",
+   "ascent": 40,
+   "height": 72,
+   "chars": [
+    "\ue147"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m71.png",
+   "ascent": 40,
+   "height": 72,
+   "chars": [
+    "\ue1c7"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r71.png",
+   "ascent": 40,
+   "height": 72,
+   "chars": [
+    "\ue247"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l72.png",
+   "ascent": 40,
+   "height": 72,
+   "chars": [
+    "\ue148"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m72.png",
+   "ascent": 40,
+   "height": 72,
+   "chars": [
+    "\ue1c8"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r72.png",
+   "ascent": 40,
+   "height": 72,
+   "chars": [
+    "\ue248"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l73.png",
+   "ascent": 41,
+   "height": 74,
+   "chars": [
+    "\ue149"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m73.png",
+   "ascent": 41,
+   "height": 74,
+   "chars": [
+    "\ue1c9"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r73.png",
+   "ascent": 41,
+   "height": 74,
+   "chars": [
+    "\ue249"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l74.png",
+   "ascent": 41,
+   "height": 74,
+   "chars": [
+    "\ue14a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m74.png",
+   "ascent": 41,
+   "height": 74,
+   "chars": [
+    "\ue1ca"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r74.png",
+   "ascent": 41,
+   "height": 74,
+   "chars": [
+    "\ue24a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l75.png",
+   "ascent": 42,
+   "height": 76,
+   "chars": [
+    "\ue14b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m75.png",
+   "ascent": 42,
+   "height": 76,
+   "chars": [
+    "\ue1cb"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r75.png",
+   "ascent": 42,
+   "height": 76,
+   "chars": [
+    "\ue24b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l76.png",
+   "ascent": 42,
+   "height": 76,
+   "chars": [
+    "\ue14c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m76.png",
+   "ascent": 42,
+   "height": 76,
+   "chars": [
+    "\ue1cc"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r76.png",
+   "ascent": 42,
+   "height": 76,
+   "chars": [
+    "\ue24c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l77.png",
+   "ascent": 43,
+   "height": 78,
+   "chars": [
+    "\ue14d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m77.png",
+   "ascent": 43,
+   "height": 78,
+   "chars": [
+    "\ue1cd"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r77.png",
+   "ascent": 43,
+   "height": 78,
+   "chars": [
+    "\ue24d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l78.png",
+   "ascent": 43,
+   "height": 78,
+   "chars": [
+    "\ue14e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m78.png",
+   "ascent": 43,
+   "height": 78,
+   "chars": [
+    "\ue1ce"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r78.png",
+   "ascent": 43,
+   "height": 78,
+   "chars": [
+    "\ue24e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l79.png",
+   "ascent": 44,
+   "height": 80,
+   "chars": [
+    "\ue14f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m79.png",
+   "ascent": 44,
+   "height": 80,
+   "chars": [
+    "\ue1cf"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r79.png",
+   "ascent": 44,
+   "height": 80,
+   "chars": [
+    "\ue24f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l80.png",
+   "ascent": 44,
+   "height": 80,
+   "chars": [
+    "\ue150"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m80.png",
+   "ascent": 44,
+   "height": 80,
+   "chars": [
+    "\ue1d0"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r80.png",
+   "ascent": 44,
+   "height": 80,
+   "chars": [
+    "\ue250"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l81.png",
+   "ascent": 45,
+   "height": 82,
+   "chars": [
+    "\ue151"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m81.png",
+   "ascent": 45,
+   "height": 82,
+   "chars": [
+    "\ue1d1"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r81.png",
+   "ascent": 45,
+   "height": 82,
+   "chars": [
+    "\ue251"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l82.png",
+   "ascent": 45,
+   "height": 82,
+   "chars": [
+    "\ue152"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m82.png",
+   "ascent": 45,
+   "height": 82,
+   "chars": [
+    "\ue1d2"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r82.png",
+   "ascent": 45,
+   "height": 82,
+   "chars": [
+    "\ue252"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l83.png",
+   "ascent": 46,
+   "height": 84,
+   "chars": [
+    "\ue153"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m83.png",
+   "ascent": 46,
+   "height": 84,
+   "chars": [
+    "\ue1d3"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r83.png",
+   "ascent": 46,
+   "height": 84,
+   "chars": [
+    "\ue253"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l84.png",
+   "ascent": 46,
+   "height": 84,
+   "chars": [
+    "\ue154"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m84.png",
+   "ascent": 46,
+   "height": 84,
+   "chars": [
+    "\ue1d4"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r84.png",
+   "ascent": 46,
+   "height": 84,
+   "chars": [
+    "\ue254"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l85.png",
+   "ascent": 47,
+   "height": 86,
+   "chars": [
+    "\ue155"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m85.png",
+   "ascent": 47,
+   "height": 86,
+   "chars": [
+    "\ue1d5"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r85.png",
+   "ascent": 47,
+   "height": 86,
+   "chars": [
+    "\ue255"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l86.png",
+   "ascent": 47,
+   "height": 86,
+   "chars": [
+    "\ue156"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m86.png",
+   "ascent": 47,
+   "height": 86,
+   "chars": [
+    "\ue1d6"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r86.png",
+   "ascent": 47,
+   "height": 86,
+   "chars": [
+    "\ue256"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l87.png",
+   "ascent": 48,
+   "height": 88,
+   "chars": [
+    "\ue157"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m87.png",
+   "ascent": 48,
+   "height": 88,
+   "chars": [
+    "\ue1d7"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r87.png",
+   "ascent": 48,
+   "height": 88,
+   "chars": [
+    "\ue257"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l88.png",
+   "ascent": 48,
+   "height": 88,
+   "chars": [
+    "\ue158"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m88.png",
+   "ascent": 48,
+   "height": 88,
+   "chars": [
+    "\ue1d8"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r88.png",
+   "ascent": 48,
+   "height": 88,
+   "chars": [
+    "\ue258"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l89.png",
+   "ascent": 49,
+   "height": 90,
+   "chars": [
+    "\ue159"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m89.png",
+   "ascent": 49,
+   "height": 90,
+   "chars": [
+    "\ue1d9"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r89.png",
+   "ascent": 49,
+   "height": 90,
+   "chars": [
+    "\ue259"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l90.png",
+   "ascent": 49,
+   "height": 90,
+   "chars": [
+    "\ue15a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m90.png",
+   "ascent": 49,
+   "height": 90,
+   "chars": [
+    "\ue1da"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r90.png",
+   "ascent": 49,
+   "height": 90,
+   "chars": [
+    "\ue25a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l91.png",
+   "ascent": 50,
+   "height": 92,
+   "chars": [
+    "\ue15b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m91.png",
+   "ascent": 50,
+   "height": 92,
+   "chars": [
+    "\ue1db"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r91.png",
+   "ascent": 50,
+   "height": 92,
+   "chars": [
+    "\ue25b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l92.png",
+   "ascent": 50,
+   "height": 92,
+   "chars": [
+    "\ue15c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m92.png",
+   "ascent": 50,
+   "height": 92,
+   "chars": [
+    "\ue1dc"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r92.png",
+   "ascent": 50,
+   "height": 92,
+   "chars": [
+    "\ue25c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l93.png",
+   "ascent": 51,
+   "height": 94,
+   "chars": [
+    "\ue15d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m93.png",
+   "ascent": 51,
+   "height": 94,
+   "chars": [
+    "\ue1dd"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r93.png",
+   "ascent": 51,
+   "height": 94,
+   "chars": [
+    "\ue25d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l94.png",
+   "ascent": 51,
+   "height": 94,
+   "chars": [
+    "\ue15e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m94.png",
+   "ascent": 51,
+   "height": 94,
+   "chars": [
+    "\ue1de"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r94.png",
+   "ascent": 51,
+   "height": 94,
+   "chars": [
+    "\ue25e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l95.png",
+   "ascent": 52,
+   "height": 96,
+   "chars": [
+    "\ue15f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m95.png",
+   "ascent": 52,
+   "height": 96,
+   "chars": [
+    "\ue1df"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r95.png",
+   "ascent": 52,
+   "height": 96,
+   "chars": [
+    "\ue25f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l96.png",
+   "ascent": 52,
+   "height": 96,
+   "chars": [
+    "\ue160"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m96.png",
+   "ascent": 52,
+   "height": 96,
+   "chars": [
+    "\ue1e0"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r96.png",
+   "ascent": 52,
+   "height": 96,
+   "chars": [
+    "\ue260"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l97.png",
+   "ascent": 53,
+   "height": 98,
+   "chars": [
+    "\ue161"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m97.png",
+   "ascent": 53,
+   "height": 98,
+   "chars": [
+    "\ue1e1"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r97.png",
+   "ascent": 53,
+   "height": 98,
+   "chars": [
+    "\ue261"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l98.png",
+   "ascent": 53,
+   "height": 98,
+   "chars": [
+    "\ue162"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m98.png",
+   "ascent": 53,
+   "height": 98,
+   "chars": [
+    "\ue1e2"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r98.png",
+   "ascent": 53,
+   "height": 98,
+   "chars": [
+    "\ue262"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l99.png",
+   "ascent": 54,
+   "height": 100,
+   "chars": [
+    "\ue163"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m99.png",
+   "ascent": 54,
+   "height": 100,
+   "chars": [
+    "\ue1e3"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r99.png",
+   "ascent": 54,
+   "height": 100,
+   "chars": [
+    "\ue263"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l100.png",
+   "ascent": 54,
+   "height": 100,
+   "chars": [
+    "\ue164"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m100.png",
+   "ascent": 54,
+   "height": 100,
+   "chars": [
+    "\ue1e4"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r100.png",
+   "ascent": 54,
+   "height": 100,
+   "chars": [
+    "\ue264"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l101.png",
+   "ascent": 55,
+   "height": 102,
+   "chars": [
+    "\ue165"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m101.png",
+   "ascent": 55,
+   "height": 102,
+   "chars": [
+    "\ue1e5"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r101.png",
+   "ascent": 55,
+   "height": 102,
+   "chars": [
+    "\ue265"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l102.png",
+   "ascent": 55,
+   "height": 102,
+   "chars": [
+    "\ue166"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m102.png",
+   "ascent": 55,
+   "height": 102,
+   "chars": [
+    "\ue1e6"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r102.png",
+   "ascent": 55,
+   "height": 102,
+   "chars": [
+    "\ue266"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l103.png",
+   "ascent": 56,
+   "height": 104,
+   "chars": [
+    "\ue167"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m103.png",
+   "ascent": 56,
+   "height": 104,
+   "chars": [
+    "\ue1e7"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r103.png",
+   "ascent": 56,
+   "height": 104,
+   "chars": [
+    "\ue267"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l104.png",
+   "ascent": 56,
+   "height": 104,
+   "chars": [
+    "\ue168"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m104.png",
+   "ascent": 56,
+   "height": 104,
+   "chars": [
+    "\ue1e8"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r104.png",
+   "ascent": 56,
+   "height": 104,
+   "chars": [
+    "\ue268"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l105.png",
+   "ascent": 57,
+   "height": 106,
+   "chars": [
+    "\ue169"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m105.png",
+   "ascent": 57,
+   "height": 106,
+   "chars": [
+    "\ue1e9"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r105.png",
+   "ascent": 57,
+   "height": 106,
+   "chars": [
+    "\ue269"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l106.png",
+   "ascent": 57,
+   "height": 106,
+   "chars": [
+    "\ue16a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m106.png",
+   "ascent": 57,
+   "height": 106,
+   "chars": [
+    "\ue1ea"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r106.png",
+   "ascent": 57,
+   "height": 106,
+   "chars": [
+    "\ue26a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l107.png",
+   "ascent": 58,
+   "height": 108,
+   "chars": [
+    "\ue16b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m107.png",
+   "ascent": 58,
+   "height": 108,
+   "chars": [
+    "\ue1eb"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r107.png",
+   "ascent": 58,
+   "height": 108,
+   "chars": [
+    "\ue26b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l108.png",
+   "ascent": 58,
+   "height": 108,
+   "chars": [
+    "\ue16c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m108.png",
+   "ascent": 58,
+   "height": 108,
+   "chars": [
+    "\ue1ec"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r108.png",
+   "ascent": 58,
+   "height": 108,
+   "chars": [
+    "\ue26c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l109.png",
+   "ascent": 59,
+   "height": 110,
+   "chars": [
+    "\ue16d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m109.png",
+   "ascent": 59,
+   "height": 110,
+   "chars": [
+    "\ue1ed"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r109.png",
+   "ascent": 59,
+   "height": 110,
+   "chars": [
+    "\ue26d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l110.png",
+   "ascent": 59,
+   "height": 110,
+   "chars": [
+    "\ue16e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m110.png",
+   "ascent": 59,
+   "height": 110,
+   "chars": [
+    "\ue1ee"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r110.png",
+   "ascent": 59,
+   "height": 110,
+   "chars": [
+    "\ue26e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l111.png",
+   "ascent": 60,
+   "height": 112,
+   "chars": [
+    "\ue16f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m111.png",
+   "ascent": 60,
+   "height": 112,
+   "chars": [
+    "\ue1ef"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r111.png",
+   "ascent": 60,
+   "height": 112,
+   "chars": [
+    "\ue26f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l112.png",
+   "ascent": 60,
+   "height": 112,
+   "chars": [
+    "\ue170"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m112.png",
+   "ascent": 60,
+   "height": 112,
+   "chars": [
+    "\ue1f0"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r112.png",
+   "ascent": 60,
+   "height": 112,
+   "chars": [
+    "\ue270"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l113.png",
+   "ascent": 61,
+   "height": 114,
+   "chars": [
+    "\ue171"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m113.png",
+   "ascent": 61,
+   "height": 114,
+   "chars": [
+    "\ue1f1"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r113.png",
+   "ascent": 61,
+   "height": 114,
+   "chars": [
+    "\ue271"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l114.png",
+   "ascent": 61,
+   "height": 114,
+   "chars": [
+    "\ue172"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m114.png",
+   "ascent": 61,
+   "height": 114,
+   "chars": [
+    "\ue1f2"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r114.png",
+   "ascent": 61,
+   "height": 114,
+   "chars": [
+    "\ue272"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l115.png",
+   "ascent": 62,
+   "height": 116,
+   "chars": [
+    "\ue173"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m115.png",
+   "ascent": 62,
+   "height": 116,
+   "chars": [
+    "\ue1f3"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r115.png",
+   "ascent": 62,
+   "height": 116,
+   "chars": [
+    "\ue273"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l116.png",
+   "ascent": 62,
+   "height": 116,
+   "chars": [
+    "\ue174"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m116.png",
+   "ascent": 62,
+   "height": 116,
+   "chars": [
+    "\ue1f4"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r116.png",
+   "ascent": 62,
+   "height": 116,
+   "chars": [
+    "\ue274"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l117.png",
+   "ascent": 63,
+   "height": 118,
+   "chars": [
+    "\ue175"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m117.png",
+   "ascent": 63,
+   "height": 118,
+   "chars": [
+    "\ue1f5"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r117.png",
+   "ascent": 63,
+   "height": 118,
+   "chars": [
+    "\ue275"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l118.png",
+   "ascent": 63,
+   "height": 118,
+   "chars": [
+    "\ue176"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m118.png",
+   "ascent": 63,
+   "height": 118,
+   "chars": [
+    "\ue1f6"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r118.png",
+   "ascent": 63,
+   "height": 118,
+   "chars": [
+    "\ue276"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l119.png",
+   "ascent": 64,
+   "height": 120,
+   "chars": [
+    "\ue177"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m119.png",
+   "ascent": 64,
+   "height": 120,
+   "chars": [
+    "\ue1f7"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r119.png",
+   "ascent": 64,
+   "height": 120,
+   "chars": [
+    "\ue277"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_l120.png",
+   "ascent": 64,
+   "height": 120,
+   "chars": [
+    "\ue178"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_m120.png",
+   "ascent": 64,
+   "height": 120,
+   "chars": [
+    "\ue1f8"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/tile_r120.png",
+   "ascent": 64,
+   "height": 120,
+   "chars": [
+    "\ue278"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l8.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue288"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m8.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue308"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r8.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue388"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l9.png",
+   "ascent": 9,
+   "height": 10,
+   "chars": [
+    "\ue289"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m9.png",
+   "ascent": 9,
+   "height": 10,
+   "chars": [
+    "\ue309"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r9.png",
+   "ascent": 9,
+   "height": 10,
+   "chars": [
+    "\ue389"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l10.png",
+   "ascent": 9,
+   "height": 10,
+   "chars": [
+    "\ue28a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m10.png",
+   "ascent": 9,
+   "height": 10,
+   "chars": [
+    "\ue30a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r10.png",
+   "ascent": 9,
+   "height": 10,
+   "chars": [
+    "\ue38a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l11.png",
+   "ascent": 10,
+   "height": 12,
+   "chars": [
+    "\ue28b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m11.png",
+   "ascent": 10,
+   "height": 12,
+   "chars": [
+    "\ue30b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r11.png",
+   "ascent": 10,
+   "height": 12,
+   "chars": [
+    "\ue38b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l12.png",
+   "ascent": 10,
+   "height": 12,
+   "chars": [
+    "\ue28c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m12.png",
+   "ascent": 10,
+   "height": 12,
+   "chars": [
+    "\ue30c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r12.png",
+   "ascent": 10,
+   "height": 12,
+   "chars": [
+    "\ue38c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l13.png",
+   "ascent": 11,
+   "height": 14,
+   "chars": [
+    "\ue28d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m13.png",
+   "ascent": 11,
+   "height": 14,
+   "chars": [
+    "\ue30d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r13.png",
+   "ascent": 11,
+   "height": 14,
+   "chars": [
+    "\ue38d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l14.png",
+   "ascent": 11,
+   "height": 14,
+   "chars": [
+    "\ue28e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m14.png",
+   "ascent": 11,
+   "height": 14,
+   "chars": [
+    "\ue30e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r14.png",
+   "ascent": 11,
+   "height": 14,
+   "chars": [
+    "\ue38e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l15.png",
+   "ascent": 12,
+   "height": 16,
+   "chars": [
+    "\ue28f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m15.png",
+   "ascent": 12,
+   "height": 16,
+   "chars": [
+    "\ue30f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r15.png",
+   "ascent": 12,
+   "height": 16,
+   "chars": [
+    "\ue38f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l16.png",
+   "ascent": 12,
+   "height": 16,
+   "chars": [
+    "\ue290"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m16.png",
+   "ascent": 12,
+   "height": 16,
+   "chars": [
+    "\ue310"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r16.png",
+   "ascent": 12,
+   "height": 16,
+   "chars": [
+    "\ue390"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l17.png",
+   "ascent": 13,
+   "height": 18,
+   "chars": [
+    "\ue291"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m17.png",
+   "ascent": 13,
+   "height": 18,
+   "chars": [
+    "\ue311"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r17.png",
+   "ascent": 13,
+   "height": 18,
+   "chars": [
+    "\ue391"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l18.png",
+   "ascent": 13,
+   "height": 18,
+   "chars": [
+    "\ue292"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m18.png",
+   "ascent": 13,
+   "height": 18,
+   "chars": [
+    "\ue312"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r18.png",
+   "ascent": 13,
+   "height": 18,
+   "chars": [
+    "\ue392"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l19.png",
+   "ascent": 14,
+   "height": 20,
+   "chars": [
+    "\ue293"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m19.png",
+   "ascent": 14,
+   "height": 20,
+   "chars": [
+    "\ue313"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r19.png",
+   "ascent": 14,
+   "height": 20,
+   "chars": [
+    "\ue393"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l20.png",
+   "ascent": 14,
+   "height": 20,
+   "chars": [
+    "\ue294"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m20.png",
+   "ascent": 14,
+   "height": 20,
+   "chars": [
+    "\ue314"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r20.png",
+   "ascent": 14,
+   "height": 20,
+   "chars": [
+    "\ue394"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l21.png",
+   "ascent": 15,
+   "height": 22,
+   "chars": [
+    "\ue295"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m21.png",
+   "ascent": 15,
+   "height": 22,
+   "chars": [
+    "\ue315"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r21.png",
+   "ascent": 15,
+   "height": 22,
+   "chars": [
+    "\ue395"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l22.png",
+   "ascent": 15,
+   "height": 22,
+   "chars": [
+    "\ue296"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m22.png",
+   "ascent": 15,
+   "height": 22,
+   "chars": [
+    "\ue316"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r22.png",
+   "ascent": 15,
+   "height": 22,
+   "chars": [
+    "\ue396"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l23.png",
+   "ascent": 16,
+   "height": 24,
+   "chars": [
+    "\ue297"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m23.png",
+   "ascent": 16,
+   "height": 24,
+   "chars": [
+    "\ue317"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r23.png",
+   "ascent": 16,
+   "height": 24,
+   "chars": [
+    "\ue397"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l24.png",
+   "ascent": 16,
+   "height": 24,
+   "chars": [
+    "\ue298"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m24.png",
+   "ascent": 16,
+   "height": 24,
+   "chars": [
+    "\ue318"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r24.png",
+   "ascent": 16,
+   "height": 24,
+   "chars": [
+    "\ue398"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l25.png",
+   "ascent": 17,
+   "height": 26,
+   "chars": [
+    "\ue299"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m25.png",
+   "ascent": 17,
+   "height": 26,
+   "chars": [
+    "\ue319"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r25.png",
+   "ascent": 17,
+   "height": 26,
+   "chars": [
+    "\ue399"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l26.png",
+   "ascent": 17,
+   "height": 26,
+   "chars": [
+    "\ue29a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m26.png",
+   "ascent": 17,
+   "height": 26,
+   "chars": [
+    "\ue31a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r26.png",
+   "ascent": 17,
+   "height": 26,
+   "chars": [
+    "\ue39a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l27.png",
+   "ascent": 18,
+   "height": 28,
+   "chars": [
+    "\ue29b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m27.png",
+   "ascent": 18,
+   "height": 28,
+   "chars": [
+    "\ue31b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r27.png",
+   "ascent": 18,
+   "height": 28,
+   "chars": [
+    "\ue39b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l28.png",
+   "ascent": 18,
+   "height": 28,
+   "chars": [
+    "\ue29c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m28.png",
+   "ascent": 18,
+   "height": 28,
+   "chars": [
+    "\ue31c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r28.png",
+   "ascent": 18,
+   "height": 28,
+   "chars": [
+    "\ue39c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l29.png",
+   "ascent": 19,
+   "height": 30,
+   "chars": [
+    "\ue29d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m29.png",
+   "ascent": 19,
+   "height": 30,
+   "chars": [
+    "\ue31d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r29.png",
+   "ascent": 19,
+   "height": 30,
+   "chars": [
+    "\ue39d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l30.png",
+   "ascent": 19,
+   "height": 30,
+   "chars": [
+    "\ue29e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m30.png",
+   "ascent": 19,
+   "height": 30,
+   "chars": [
+    "\ue31e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r30.png",
+   "ascent": 19,
+   "height": 30,
+   "chars": [
+    "\ue39e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l31.png",
+   "ascent": 20,
+   "height": 32,
+   "chars": [
+    "\ue29f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m31.png",
+   "ascent": 20,
+   "height": 32,
+   "chars": [
+    "\ue31f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r31.png",
+   "ascent": 20,
+   "height": 32,
+   "chars": [
+    "\ue39f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l32.png",
+   "ascent": 20,
+   "height": 32,
+   "chars": [
+    "\ue2a0"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m32.png",
+   "ascent": 20,
+   "height": 32,
+   "chars": [
+    "\ue320"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r32.png",
+   "ascent": 20,
+   "height": 32,
+   "chars": [
+    "\ue3a0"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l33.png",
+   "ascent": 21,
+   "height": 34,
+   "chars": [
+    "\ue2a1"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m33.png",
+   "ascent": 21,
+   "height": 34,
+   "chars": [
+    "\ue321"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r33.png",
+   "ascent": 21,
+   "height": 34,
+   "chars": [
+    "\ue3a1"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l34.png",
+   "ascent": 21,
+   "height": 34,
+   "chars": [
+    "\ue2a2"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m34.png",
+   "ascent": 21,
+   "height": 34,
+   "chars": [
+    "\ue322"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r34.png",
+   "ascent": 21,
+   "height": 34,
+   "chars": [
+    "\ue3a2"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l35.png",
+   "ascent": 22,
+   "height": 36,
+   "chars": [
+    "\ue2a3"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m35.png",
+   "ascent": 22,
+   "height": 36,
+   "chars": [
+    "\ue323"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r35.png",
+   "ascent": 22,
+   "height": 36,
+   "chars": [
+    "\ue3a3"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l36.png",
+   "ascent": 22,
+   "height": 36,
+   "chars": [
+    "\ue2a4"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m36.png",
+   "ascent": 22,
+   "height": 36,
+   "chars": [
+    "\ue324"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r36.png",
+   "ascent": 22,
+   "height": 36,
+   "chars": [
+    "\ue3a4"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l37.png",
+   "ascent": 23,
+   "height": 38,
+   "chars": [
+    "\ue2a5"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m37.png",
+   "ascent": 23,
+   "height": 38,
+   "chars": [
+    "\ue325"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r37.png",
+   "ascent": 23,
+   "height": 38,
+   "chars": [
+    "\ue3a5"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l38.png",
+   "ascent": 23,
+   "height": 38,
+   "chars": [
+    "\ue2a6"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m38.png",
+   "ascent": 23,
+   "height": 38,
+   "chars": [
+    "\ue326"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r38.png",
+   "ascent": 23,
+   "height": 38,
+   "chars": [
+    "\ue3a6"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l39.png",
+   "ascent": 24,
+   "height": 40,
+   "chars": [
+    "\ue2a7"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m39.png",
+   "ascent": 24,
+   "height": 40,
+   "chars": [
+    "\ue327"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r39.png",
+   "ascent": 24,
+   "height": 40,
+   "chars": [
+    "\ue3a7"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l40.png",
+   "ascent": 24,
+   "height": 40,
+   "chars": [
+    "\ue2a8"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m40.png",
+   "ascent": 24,
+   "height": 40,
+   "chars": [
+    "\ue328"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r40.png",
+   "ascent": 24,
+   "height": 40,
+   "chars": [
+    "\ue3a8"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l41.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue2a9"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m41.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue329"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r41.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue3a9"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l42.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue2aa"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m42.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue32a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r42.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue3aa"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l43.png",
+   "ascent": 26,
+   "height": 44,
+   "chars": [
+    "\ue2ab"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m43.png",
+   "ascent": 26,
+   "height": 44,
+   "chars": [
+    "\ue32b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r43.png",
+   "ascent": 26,
+   "height": 44,
+   "chars": [
+    "\ue3ab"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l44.png",
+   "ascent": 26,
+   "height": 44,
+   "chars": [
+    "\ue2ac"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m44.png",
+   "ascent": 26,
+   "height": 44,
+   "chars": [
+    "\ue32c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r44.png",
+   "ascent": 26,
+   "height": 44,
+   "chars": [
+    "\ue3ac"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l45.png",
+   "ascent": 27,
+   "height": 46,
+   "chars": [
+    "\ue2ad"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m45.png",
+   "ascent": 27,
+   "height": 46,
+   "chars": [
+    "\ue32d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r45.png",
+   "ascent": 27,
+   "height": 46,
+   "chars": [
+    "\ue3ad"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l46.png",
+   "ascent": 27,
+   "height": 46,
+   "chars": [
+    "\ue2ae"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m46.png",
+   "ascent": 27,
+   "height": 46,
+   "chars": [
+    "\ue32e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r46.png",
+   "ascent": 27,
+   "height": 46,
+   "chars": [
+    "\ue3ae"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l47.png",
+   "ascent": 28,
+   "height": 48,
+   "chars": [
+    "\ue2af"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m47.png",
+   "ascent": 28,
+   "height": 48,
+   "chars": [
+    "\ue32f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r47.png",
+   "ascent": 28,
+   "height": 48,
+   "chars": [
+    "\ue3af"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l48.png",
+   "ascent": 28,
+   "height": 48,
+   "chars": [
+    "\ue2b0"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m48.png",
+   "ascent": 28,
+   "height": 48,
+   "chars": [
+    "\ue330"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r48.png",
+   "ascent": 28,
+   "height": 48,
+   "chars": [
+    "\ue3b0"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l49.png",
+   "ascent": 29,
+   "height": 50,
+   "chars": [
+    "\ue2b1"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m49.png",
+   "ascent": 29,
+   "height": 50,
+   "chars": [
+    "\ue331"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r49.png",
+   "ascent": 29,
+   "height": 50,
+   "chars": [
+    "\ue3b1"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l50.png",
+   "ascent": 29,
+   "height": 50,
+   "chars": [
+    "\ue2b2"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m50.png",
+   "ascent": 29,
+   "height": 50,
+   "chars": [
+    "\ue332"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r50.png",
+   "ascent": 29,
+   "height": 50,
+   "chars": [
+    "\ue3b2"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l51.png",
+   "ascent": 30,
+   "height": 52,
+   "chars": [
+    "\ue2b3"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m51.png",
+   "ascent": 30,
+   "height": 52,
+   "chars": [
+    "\ue333"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r51.png",
+   "ascent": 30,
+   "height": 52,
+   "chars": [
+    "\ue3b3"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l52.png",
+   "ascent": 30,
+   "height": 52,
+   "chars": [
+    "\ue2b4"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m52.png",
+   "ascent": 30,
+   "height": 52,
+   "chars": [
+    "\ue334"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r52.png",
+   "ascent": 30,
+   "height": 52,
+   "chars": [
+    "\ue3b4"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l53.png",
+   "ascent": 31,
+   "height": 54,
+   "chars": [
+    "\ue2b5"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m53.png",
+   "ascent": 31,
+   "height": 54,
+   "chars": [
+    "\ue335"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r53.png",
+   "ascent": 31,
+   "height": 54,
+   "chars": [
+    "\ue3b5"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l54.png",
+   "ascent": 31,
+   "height": 54,
+   "chars": [
+    "\ue2b6"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m54.png",
+   "ascent": 31,
+   "height": 54,
+   "chars": [
+    "\ue336"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r54.png",
+   "ascent": 31,
+   "height": 54,
+   "chars": [
+    "\ue3b6"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l55.png",
+   "ascent": 32,
+   "height": 56,
+   "chars": [
+    "\ue2b7"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m55.png",
+   "ascent": 32,
+   "height": 56,
+   "chars": [
+    "\ue337"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r55.png",
+   "ascent": 32,
+   "height": 56,
+   "chars": [
+    "\ue3b7"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l56.png",
+   "ascent": 32,
+   "height": 56,
+   "chars": [
+    "\ue2b8"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m56.png",
+   "ascent": 32,
+   "height": 56,
+   "chars": [
+    "\ue338"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r56.png",
+   "ascent": 32,
+   "height": 56,
+   "chars": [
+    "\ue3b8"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l57.png",
+   "ascent": 33,
+   "height": 58,
+   "chars": [
+    "\ue2b9"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m57.png",
+   "ascent": 33,
+   "height": 58,
+   "chars": [
+    "\ue339"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r57.png",
+   "ascent": 33,
+   "height": 58,
+   "chars": [
+    "\ue3b9"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l58.png",
+   "ascent": 33,
+   "height": 58,
+   "chars": [
+    "\ue2ba"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m58.png",
+   "ascent": 33,
+   "height": 58,
+   "chars": [
+    "\ue33a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r58.png",
+   "ascent": 33,
+   "height": 58,
+   "chars": [
+    "\ue3ba"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l59.png",
+   "ascent": 34,
+   "height": 60,
+   "chars": [
+    "\ue2bb"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m59.png",
+   "ascent": 34,
+   "height": 60,
+   "chars": [
+    "\ue33b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r59.png",
+   "ascent": 34,
+   "height": 60,
+   "chars": [
+    "\ue3bb"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l60.png",
+   "ascent": 34,
+   "height": 60,
+   "chars": [
+    "\ue2bc"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m60.png",
+   "ascent": 34,
+   "height": 60,
+   "chars": [
+    "\ue33c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r60.png",
+   "ascent": 34,
+   "height": 60,
+   "chars": [
+    "\ue3bc"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l61.png",
+   "ascent": 35,
+   "height": 62,
+   "chars": [
+    "\ue2bd"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m61.png",
+   "ascent": 35,
+   "height": 62,
+   "chars": [
+    "\ue33d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r61.png",
+   "ascent": 35,
+   "height": 62,
+   "chars": [
+    "\ue3bd"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l62.png",
+   "ascent": 35,
+   "height": 62,
+   "chars": [
+    "\ue2be"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m62.png",
+   "ascent": 35,
+   "height": 62,
+   "chars": [
+    "\ue33e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r62.png",
+   "ascent": 35,
+   "height": 62,
+   "chars": [
+    "\ue3be"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l63.png",
+   "ascent": 36,
+   "height": 64,
+   "chars": [
+    "\ue2bf"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m63.png",
+   "ascent": 36,
+   "height": 64,
+   "chars": [
+    "\ue33f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r63.png",
+   "ascent": 36,
+   "height": 64,
+   "chars": [
+    "\ue3bf"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l64.png",
+   "ascent": 36,
+   "height": 64,
+   "chars": [
+    "\ue2c0"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m64.png",
+   "ascent": 36,
+   "height": 64,
+   "chars": [
+    "\ue340"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r64.png",
+   "ascent": 36,
+   "height": 64,
+   "chars": [
+    "\ue3c0"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l65.png",
+   "ascent": 37,
+   "height": 66,
+   "chars": [
+    "\ue2c1"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m65.png",
+   "ascent": 37,
+   "height": 66,
+   "chars": [
+    "\ue341"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r65.png",
+   "ascent": 37,
+   "height": 66,
+   "chars": [
+    "\ue3c1"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l66.png",
+   "ascent": 37,
+   "height": 66,
+   "chars": [
+    "\ue2c2"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m66.png",
+   "ascent": 37,
+   "height": 66,
+   "chars": [
+    "\ue342"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r66.png",
+   "ascent": 37,
+   "height": 66,
+   "chars": [
+    "\ue3c2"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l67.png",
+   "ascent": 38,
+   "height": 68,
+   "chars": [
+    "\ue2c3"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m67.png",
+   "ascent": 38,
+   "height": 68,
+   "chars": [
+    "\ue343"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r67.png",
+   "ascent": 38,
+   "height": 68,
+   "chars": [
+    "\ue3c3"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l68.png",
+   "ascent": 38,
+   "height": 68,
+   "chars": [
+    "\ue2c4"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m68.png",
+   "ascent": 38,
+   "height": 68,
+   "chars": [
+    "\ue344"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r68.png",
+   "ascent": 38,
+   "height": 68,
+   "chars": [
+    "\ue3c4"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l69.png",
+   "ascent": 39,
+   "height": 70,
+   "chars": [
+    "\ue2c5"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m69.png",
+   "ascent": 39,
+   "height": 70,
+   "chars": [
+    "\ue345"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r69.png",
+   "ascent": 39,
+   "height": 70,
+   "chars": [
+    "\ue3c5"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l70.png",
+   "ascent": 39,
+   "height": 70,
+   "chars": [
+    "\ue2c6"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m70.png",
+   "ascent": 39,
+   "height": 70,
+   "chars": [
+    "\ue346"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r70.png",
+   "ascent": 39,
+   "height": 70,
+   "chars": [
+    "\ue3c6"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l71.png",
+   "ascent": 40,
+   "height": 72,
+   "chars": [
+    "\ue2c7"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m71.png",
+   "ascent": 40,
+   "height": 72,
+   "chars": [
+    "\ue347"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r71.png",
+   "ascent": 40,
+   "height": 72,
+   "chars": [
+    "\ue3c7"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l72.png",
+   "ascent": 40,
+   "height": 72,
+   "chars": [
+    "\ue2c8"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m72.png",
+   "ascent": 40,
+   "height": 72,
+   "chars": [
+    "\ue348"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r72.png",
+   "ascent": 40,
+   "height": 72,
+   "chars": [
+    "\ue3c8"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l73.png",
+   "ascent": 41,
+   "height": 74,
+   "chars": [
+    "\ue2c9"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m73.png",
+   "ascent": 41,
+   "height": 74,
+   "chars": [
+    "\ue349"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r73.png",
+   "ascent": 41,
+   "height": 74,
+   "chars": [
+    "\ue3c9"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l74.png",
+   "ascent": 41,
+   "height": 74,
+   "chars": [
+    "\ue2ca"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m74.png",
+   "ascent": 41,
+   "height": 74,
+   "chars": [
+    "\ue34a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r74.png",
+   "ascent": 41,
+   "height": 74,
+   "chars": [
+    "\ue3ca"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l75.png",
+   "ascent": 42,
+   "height": 76,
+   "chars": [
+    "\ue2cb"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m75.png",
+   "ascent": 42,
+   "height": 76,
+   "chars": [
+    "\ue34b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r75.png",
+   "ascent": 42,
+   "height": 76,
+   "chars": [
+    "\ue3cb"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l76.png",
+   "ascent": 42,
+   "height": 76,
+   "chars": [
+    "\ue2cc"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m76.png",
+   "ascent": 42,
+   "height": 76,
+   "chars": [
+    "\ue34c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r76.png",
+   "ascent": 42,
+   "height": 76,
+   "chars": [
+    "\ue3cc"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l77.png",
+   "ascent": 43,
+   "height": 78,
+   "chars": [
+    "\ue2cd"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m77.png",
+   "ascent": 43,
+   "height": 78,
+   "chars": [
+    "\ue34d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r77.png",
+   "ascent": 43,
+   "height": 78,
+   "chars": [
+    "\ue3cd"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l78.png",
+   "ascent": 43,
+   "height": 78,
+   "chars": [
+    "\ue2ce"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m78.png",
+   "ascent": 43,
+   "height": 78,
+   "chars": [
+    "\ue34e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r78.png",
+   "ascent": 43,
+   "height": 78,
+   "chars": [
+    "\ue3ce"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l79.png",
+   "ascent": 44,
+   "height": 80,
+   "chars": [
+    "\ue2cf"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m79.png",
+   "ascent": 44,
+   "height": 80,
+   "chars": [
+    "\ue34f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r79.png",
+   "ascent": 44,
+   "height": 80,
+   "chars": [
+    "\ue3cf"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l80.png",
+   "ascent": 44,
+   "height": 80,
+   "chars": [
+    "\ue2d0"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m80.png",
+   "ascent": 44,
+   "height": 80,
+   "chars": [
+    "\ue350"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r80.png",
+   "ascent": 44,
+   "height": 80,
+   "chars": [
+    "\ue3d0"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l81.png",
+   "ascent": 45,
+   "height": 82,
+   "chars": [
+    "\ue2d1"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m81.png",
+   "ascent": 45,
+   "height": 82,
+   "chars": [
+    "\ue351"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r81.png",
+   "ascent": 45,
+   "height": 82,
+   "chars": [
+    "\ue3d1"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l82.png",
+   "ascent": 45,
+   "height": 82,
+   "chars": [
+    "\ue2d2"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m82.png",
+   "ascent": 45,
+   "height": 82,
+   "chars": [
+    "\ue352"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r82.png",
+   "ascent": 45,
+   "height": 82,
+   "chars": [
+    "\ue3d2"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l83.png",
+   "ascent": 46,
+   "height": 84,
+   "chars": [
+    "\ue2d3"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m83.png",
+   "ascent": 46,
+   "height": 84,
+   "chars": [
+    "\ue353"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r83.png",
+   "ascent": 46,
+   "height": 84,
+   "chars": [
+    "\ue3d3"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l84.png",
+   "ascent": 46,
+   "height": 84,
+   "chars": [
+    "\ue2d4"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m84.png",
+   "ascent": 46,
+   "height": 84,
+   "chars": [
+    "\ue354"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r84.png",
+   "ascent": 46,
+   "height": 84,
+   "chars": [
+    "\ue3d4"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l85.png",
+   "ascent": 47,
+   "height": 86,
+   "chars": [
+    "\ue2d5"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m85.png",
+   "ascent": 47,
+   "height": 86,
+   "chars": [
+    "\ue355"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r85.png",
+   "ascent": 47,
+   "height": 86,
+   "chars": [
+    "\ue3d5"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l86.png",
+   "ascent": 47,
+   "height": 86,
+   "chars": [
+    "\ue2d6"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m86.png",
+   "ascent": 47,
+   "height": 86,
+   "chars": [
+    "\ue356"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r86.png",
+   "ascent": 47,
+   "height": 86,
+   "chars": [
+    "\ue3d6"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l87.png",
+   "ascent": 48,
+   "height": 88,
+   "chars": [
+    "\ue2d7"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m87.png",
+   "ascent": 48,
+   "height": 88,
+   "chars": [
+    "\ue357"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r87.png",
+   "ascent": 48,
+   "height": 88,
+   "chars": [
+    "\ue3d7"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l88.png",
+   "ascent": 48,
+   "height": 88,
+   "chars": [
+    "\ue2d8"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m88.png",
+   "ascent": 48,
+   "height": 88,
+   "chars": [
+    "\ue358"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r88.png",
+   "ascent": 48,
+   "height": 88,
+   "chars": [
+    "\ue3d8"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l89.png",
+   "ascent": 49,
+   "height": 90,
+   "chars": [
+    "\ue2d9"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m89.png",
+   "ascent": 49,
+   "height": 90,
+   "chars": [
+    "\ue359"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r89.png",
+   "ascent": 49,
+   "height": 90,
+   "chars": [
+    "\ue3d9"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l90.png",
+   "ascent": 49,
+   "height": 90,
+   "chars": [
+    "\ue2da"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m90.png",
+   "ascent": 49,
+   "height": 90,
+   "chars": [
+    "\ue35a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r90.png",
+   "ascent": 49,
+   "height": 90,
+   "chars": [
+    "\ue3da"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l91.png",
+   "ascent": 50,
+   "height": 92,
+   "chars": [
+    "\ue2db"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m91.png",
+   "ascent": 50,
+   "height": 92,
+   "chars": [
+    "\ue35b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r91.png",
+   "ascent": 50,
+   "height": 92,
+   "chars": [
+    "\ue3db"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l92.png",
+   "ascent": 50,
+   "height": 92,
+   "chars": [
+    "\ue2dc"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m92.png",
+   "ascent": 50,
+   "height": 92,
+   "chars": [
+    "\ue35c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r92.png",
+   "ascent": 50,
+   "height": 92,
+   "chars": [
+    "\ue3dc"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l93.png",
+   "ascent": 51,
+   "height": 94,
+   "chars": [
+    "\ue2dd"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m93.png",
+   "ascent": 51,
+   "height": 94,
+   "chars": [
+    "\ue35d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r93.png",
+   "ascent": 51,
+   "height": 94,
+   "chars": [
+    "\ue3dd"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l94.png",
+   "ascent": 51,
+   "height": 94,
+   "chars": [
+    "\ue2de"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m94.png",
+   "ascent": 51,
+   "height": 94,
+   "chars": [
+    "\ue35e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r94.png",
+   "ascent": 51,
+   "height": 94,
+   "chars": [
+    "\ue3de"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l95.png",
+   "ascent": 52,
+   "height": 96,
+   "chars": [
+    "\ue2df"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m95.png",
+   "ascent": 52,
+   "height": 96,
+   "chars": [
+    "\ue35f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r95.png",
+   "ascent": 52,
+   "height": 96,
+   "chars": [
+    "\ue3df"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l96.png",
+   "ascent": 52,
+   "height": 96,
+   "chars": [
+    "\ue2e0"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m96.png",
+   "ascent": 52,
+   "height": 96,
+   "chars": [
+    "\ue360"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r96.png",
+   "ascent": 52,
+   "height": 96,
+   "chars": [
+    "\ue3e0"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l97.png",
+   "ascent": 53,
+   "height": 98,
+   "chars": [
+    "\ue2e1"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m97.png",
+   "ascent": 53,
+   "height": 98,
+   "chars": [
+    "\ue361"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r97.png",
+   "ascent": 53,
+   "height": 98,
+   "chars": [
+    "\ue3e1"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l98.png",
+   "ascent": 53,
+   "height": 98,
+   "chars": [
+    "\ue2e2"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m98.png",
+   "ascent": 53,
+   "height": 98,
+   "chars": [
+    "\ue362"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r98.png",
+   "ascent": 53,
+   "height": 98,
+   "chars": [
+    "\ue3e2"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l99.png",
+   "ascent": 54,
+   "height": 100,
+   "chars": [
+    "\ue2e3"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m99.png",
+   "ascent": 54,
+   "height": 100,
+   "chars": [
+    "\ue363"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r99.png",
+   "ascent": 54,
+   "height": 100,
+   "chars": [
+    "\ue3e3"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l100.png",
+   "ascent": 54,
+   "height": 100,
+   "chars": [
+    "\ue2e4"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m100.png",
+   "ascent": 54,
+   "height": 100,
+   "chars": [
+    "\ue364"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r100.png",
+   "ascent": 54,
+   "height": 100,
+   "chars": [
+    "\ue3e4"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l101.png",
+   "ascent": 55,
+   "height": 102,
+   "chars": [
+    "\ue2e5"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m101.png",
+   "ascent": 55,
+   "height": 102,
+   "chars": [
+    "\ue365"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r101.png",
+   "ascent": 55,
+   "height": 102,
+   "chars": [
+    "\ue3e5"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l102.png",
+   "ascent": 55,
+   "height": 102,
+   "chars": [
+    "\ue2e6"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m102.png",
+   "ascent": 55,
+   "height": 102,
+   "chars": [
+    "\ue366"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r102.png",
+   "ascent": 55,
+   "height": 102,
+   "chars": [
+    "\ue3e6"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l103.png",
+   "ascent": 56,
+   "height": 104,
+   "chars": [
+    "\ue2e7"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m103.png",
+   "ascent": 56,
+   "height": 104,
+   "chars": [
+    "\ue367"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r103.png",
+   "ascent": 56,
+   "height": 104,
+   "chars": [
+    "\ue3e7"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l104.png",
+   "ascent": 56,
+   "height": 104,
+   "chars": [
+    "\ue2e8"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m104.png",
+   "ascent": 56,
+   "height": 104,
+   "chars": [
+    "\ue368"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r104.png",
+   "ascent": 56,
+   "height": 104,
+   "chars": [
+    "\ue3e8"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l105.png",
+   "ascent": 57,
+   "height": 106,
+   "chars": [
+    "\ue2e9"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m105.png",
+   "ascent": 57,
+   "height": 106,
+   "chars": [
+    "\ue369"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r105.png",
+   "ascent": 57,
+   "height": 106,
+   "chars": [
+    "\ue3e9"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l106.png",
+   "ascent": 57,
+   "height": 106,
+   "chars": [
+    "\ue2ea"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m106.png",
+   "ascent": 57,
+   "height": 106,
+   "chars": [
+    "\ue36a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r106.png",
+   "ascent": 57,
+   "height": 106,
+   "chars": [
+    "\ue3ea"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l107.png",
+   "ascent": 58,
+   "height": 108,
+   "chars": [
+    "\ue2eb"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m107.png",
+   "ascent": 58,
+   "height": 108,
+   "chars": [
+    "\ue36b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r107.png",
+   "ascent": 58,
+   "height": 108,
+   "chars": [
+    "\ue3eb"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l108.png",
+   "ascent": 58,
+   "height": 108,
+   "chars": [
+    "\ue2ec"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m108.png",
+   "ascent": 58,
+   "height": 108,
+   "chars": [
+    "\ue36c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r108.png",
+   "ascent": 58,
+   "height": 108,
+   "chars": [
+    "\ue3ec"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l109.png",
+   "ascent": 59,
+   "height": 110,
+   "chars": [
+    "\ue2ed"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m109.png",
+   "ascent": 59,
+   "height": 110,
+   "chars": [
+    "\ue36d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r109.png",
+   "ascent": 59,
+   "height": 110,
+   "chars": [
+    "\ue3ed"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l110.png",
+   "ascent": 59,
+   "height": 110,
+   "chars": [
+    "\ue2ee"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m110.png",
+   "ascent": 59,
+   "height": 110,
+   "chars": [
+    "\ue36e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r110.png",
+   "ascent": 59,
+   "height": 110,
+   "chars": [
+    "\ue3ee"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l111.png",
+   "ascent": 60,
+   "height": 112,
+   "chars": [
+    "\ue2ef"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m111.png",
+   "ascent": 60,
+   "height": 112,
+   "chars": [
+    "\ue36f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r111.png",
+   "ascent": 60,
+   "height": 112,
+   "chars": [
+    "\ue3ef"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l112.png",
+   "ascent": 60,
+   "height": 112,
+   "chars": [
+    "\ue2f0"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m112.png",
+   "ascent": 60,
+   "height": 112,
+   "chars": [
+    "\ue370"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r112.png",
+   "ascent": 60,
+   "height": 112,
+   "chars": [
+    "\ue3f0"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l113.png",
+   "ascent": 61,
+   "height": 114,
+   "chars": [
+    "\ue2f1"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m113.png",
+   "ascent": 61,
+   "height": 114,
+   "chars": [
+    "\ue371"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r113.png",
+   "ascent": 61,
+   "height": 114,
+   "chars": [
+    "\ue3f1"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l114.png",
+   "ascent": 61,
+   "height": 114,
+   "chars": [
+    "\ue2f2"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m114.png",
+   "ascent": 61,
+   "height": 114,
+   "chars": [
+    "\ue372"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r114.png",
+   "ascent": 61,
+   "height": 114,
+   "chars": [
+    "\ue3f2"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l115.png",
+   "ascent": 62,
+   "height": 116,
+   "chars": [
+    "\ue2f3"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m115.png",
+   "ascent": 62,
+   "height": 116,
+   "chars": [
+    "\ue373"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r115.png",
+   "ascent": 62,
+   "height": 116,
+   "chars": [
+    "\ue3f3"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l116.png",
+   "ascent": 62,
+   "height": 116,
+   "chars": [
+    "\ue2f4"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m116.png",
+   "ascent": 62,
+   "height": 116,
+   "chars": [
+    "\ue374"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r116.png",
+   "ascent": 62,
+   "height": 116,
+   "chars": [
+    "\ue3f4"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l117.png",
+   "ascent": 63,
+   "height": 118,
+   "chars": [
+    "\ue2f5"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m117.png",
+   "ascent": 63,
+   "height": 118,
+   "chars": [
+    "\ue375"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r117.png",
+   "ascent": 63,
+   "height": 118,
+   "chars": [
+    "\ue3f5"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l118.png",
+   "ascent": 63,
+   "height": 118,
+   "chars": [
+    "\ue2f6"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m118.png",
+   "ascent": 63,
+   "height": 118,
+   "chars": [
+    "\ue376"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r118.png",
+   "ascent": 63,
+   "height": 118,
+   "chars": [
+    "\ue3f6"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l119.png",
+   "ascent": 64,
+   "height": 120,
+   "chars": [
+    "\ue2f7"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m119.png",
+   "ascent": 64,
+   "height": 120,
+   "chars": [
+    "\ue377"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r119.png",
+   "ascent": 64,
+   "height": 120,
+   "chars": [
+    "\ue3f7"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_l120.png",
+   "ascent": 64,
+   "height": 120,
+   "chars": [
+    "\ue2f8"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_m120.png",
+   "ascent": 64,
+   "height": 120,
+   "chars": [
+    "\ue378"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/layout/big_r120.png",
+   "ascent": 64,
+   "height": 120,
+   "chars": [
+    "\ue3f8"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_afk.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue400"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_banner.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue401"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_block.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue402"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_boots.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue403"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_calendar.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue404"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_chair.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue405"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_check.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue406"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_chest.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue407"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_clock.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue408"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_cross.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue409"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_crown.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue40a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_diamond.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue40b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_door.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue40c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_eye.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue40d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_gear.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue40e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_heart.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue40f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_in.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue410"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_jump.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue411"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_key.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue412"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_mail.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue413"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_medal.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue414"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_note.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue415"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_ore.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue416"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_out.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue417"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_palette.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue418"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_people.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue419"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_person.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue41a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_pickaxe.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue41b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_plus.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue41c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_ranks.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue41d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_shirt.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue41e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_skull.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue41f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_star.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue420"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_sword.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue421"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_trophy.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue422"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/icon_warn.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue423"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/banner_pole.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue440"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/banner_l.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue441"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/banner_r.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue442"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/swatch.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue443"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/swatch_l.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue444"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book/layout/swatch_r.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue445"
+   ]
+  },
+  {
+   "type": "space",
+   "advances": {
+    "\ue4f0": -9,
+    "\ue0f0": 1
+   }
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/decor0.png",
+   "ascent": 112,
+   "height": 216,
+   "chars": [
+    "\ue0e0"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/decor1.png",
+   "ascent": 112,
+   "height": 216,
+   "chars": [
+    "\ue0e1"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:book_halloween/close.png",
+   "ascent": 8,
+   "height": 8,
+   "chars": [
+    "\ue0e2"
+   ]
+  }
+ ]
+}

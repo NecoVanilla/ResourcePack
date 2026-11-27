@@ -1,0 +1,400 @@
+{
+ "providers": [
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/edge.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue700"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/base.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue701"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/border.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue702"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/bricks.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue703"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/circle.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue704"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/creeper.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue705"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/cross.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue706"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/curly_border.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue707"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/diagonal_left.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue708"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/diagonal_right.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue709"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/diagonal_up_left.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue70a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/diagonal_up_right.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue70b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/flow.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue70c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/flower.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue70d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/globe.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue70e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/gradient.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue70f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/gradient_up.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue710"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/guster.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue711"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/half_horizontal.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue712"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/half_horizontal_bottom.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue713"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/half_vertical.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue714"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/half_vertical_right.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue715"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/mojang.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue716"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/piglin.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue717"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/rhombus.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue718"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/skull.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue719"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/small_stripes.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue71a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/square_bottom_left.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue71b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/square_bottom_right.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue71c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/square_top_left.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue71d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/square_top_right.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue71e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/straight_cross.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue71f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/stripe_bottom.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue720"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/stripe_center.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue721"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/stripe_downleft.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue722"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/stripe_downright.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue723"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/stripe_left.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue724"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/stripe_middle.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue725"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/stripe_right.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue726"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/stripe_top.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue727"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/triangle_bottom.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue728"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/triangle_top.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue729"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/triangles_bottom.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue72a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "bookmenu:banner/triangles_top.png",
+   "ascent": 25,
+   "height": 42,
+   "chars": [
+    "\ue72b"
+   ]
+  }
+ ]
+}

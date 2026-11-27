@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "menuplayer:decor/glow_berries.png",
+      "ascent": 20,
+      "height": 32,
+      "chars": [
+        "ꑠ"
+      ]
+    }
+  ]
+}

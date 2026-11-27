@@ -1,0 +1,1 @@
+{"textures":{"portal":"customportals:block/baked/frostgate_wide","particle":"customportals:block/baked/frostgate_wide"},"elements":[{"from":[0,0,8],"to":[16,16,8],"shade":false,"light_emission":15,"faces":{"north":{"texture":"#portal","tintindex":-1,"uv":[1.6,6.0,3.2,8.0]},"south":{"texture":"#portal","tintindex":-1,"uv":[3.2,6.0,1.6,8.0]}}}]}
